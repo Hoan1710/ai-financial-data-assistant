@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Financial Data Assistant
 
 Bài tập lớn NLP về chuyển câu hỏi tiếng Việt thành truy vấn Pandas trên báo cáo tài chính của doanh nghiệp niêm yết Việt Nam. Phiên bản đầu tiên cung cấp cấu trúc dự án, các module khởi đầu và kiểm tra khả năng import. Các mốc triển khai API, giao diện, dữ liệu và mô hình nằm trong [kế hoạch của nhóm](Ke-hoach-Text-to-Pandas.md).
@@ -25,3 +26,6 @@ python -m venv .venv
 ## Dữ liệu trong Git
 
 Đưa cấu hình, từ điển, dữ liệu mẫu được phép chia sẻ và manifest vào Git. Các thư mục `data/raw/`, `data/processed/` và `artifacts/` dành cho dữ liệu cục bộ và sản phẩm sinh ra khi chạy. Các tập train/dev hiện là tệp rỗng để nhóm bắt đầu gán nhãn.
+=======
+# ai-financial-data-assistant
+>>>>>>> 43b9993912886b385e41adb666030461ec4dffc5
