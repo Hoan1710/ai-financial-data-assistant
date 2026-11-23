@@ -1,7 +1,0 @@
-# Điền @username có quyền ghi sau khi các thành viên tham gia repository.
-# Phân công dự kiến theo đường dẫn
-# /src/finassistant/contracts/, /src/finassistant/engine/, /src/finassistant/api/ — Hoan
-# /src/finassistant/data_pipeline/, /data/catalog/, /data/manifests/ — Đức
-# /src/finassistant/nlu/, /data/qa/ — Hưng
-# /src/finassistant/models/, /training/ — Hưởng
-# /evaluation/, /tests/e2e/, /app/ — Đức Anh
